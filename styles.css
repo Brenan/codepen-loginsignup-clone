@@ -4,7 +4,7 @@ body {
 	background: #333 url(img/classy_fabric.png);
 	font-family: "Lucida Grande", "Lucida Sans Unicode", Tahoma, Sans-Serif;
 	font-size: 13px;
-	padding-top: 195px;
+	padding-top: 100px;
 	height: 100%;
 	margin: 0;
 	color: white;
@@ -19,6 +19,10 @@ body {
 .header-logo img{
 	width: 242px;
 	height: 40px;
+}
+
+.signup-form {
+	display: none;
 }
 
 .form-modal {
